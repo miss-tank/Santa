@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/612b6b7e6bb6e8241572eae388cd1420/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/misstank/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/684c275bebe7ded87fe820987e779b3a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/de85fea53877a6aab177e70aff13513e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/ace38305414261e9e31c8863b2c96f91/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/60db07e12b11108a697e49d33a1de9a5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/57006f555701c24415beb95c39686ad0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/85a14f038fbcd122e6f421e3d8525090/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/0ab02033cc0f40aafe83c67795606eaa/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cd8931b780c006124a4b62978576f730/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/72b9664500f6afc1f8e10d2b470771f0/AndroidManifest.xml:17:1-27:12
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/612b6b7e6bb6e8241572eae388cd1420/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/612b6b7e6bb6e8241572eae388cd1420/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/misstank/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/684c275bebe7ded87fe820987e779b3a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/misstank/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/684c275bebe7ded87fe820987e779b3a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/de85fea53877a6aab177e70aff13513e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/de85fea53877a6aab177e70aff13513e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/ace38305414261e9e31c8863b2c96f91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/ace38305414261e9e31c8863b2c96f91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/60db07e12b11108a697e49d33a1de9a5/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/60db07e12b11108a697e49d33a1de9a5/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/57006f555701c24415beb95c39686ad0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/57006f555701c24415beb95c39686ad0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/85a14f038fbcd122e6f421e3d8525090/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/85a14f038fbcd122e6f421e3d8525090/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/0ab02033cc0f40aafe83c67795606eaa/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/0ab02033cc0f40aafe83c67795606eaa/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cd8931b780c006124a4b62978576f730/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cd8931b780c006124a4b62978576f730/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/72b9664500f6afc1f8e10d2b470771f0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/72b9664500f6afc1f8e10d2b470771f0/AndroidManifest.xml:21:5-23:58
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/612b6b7e6bb6e8241572eae388cd1420/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:16:22-62
+uses-feature#android.hardware.camera
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:18:5-60
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:18:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:19:19-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:21:22-72
+application
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:23:5-59:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/612b6b7e6bb6e8241572eae388cd1420/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/612b6b7e6bb6e8241572eae388cd1420/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/misstank/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/684c275bebe7ded87fe820987e779b3a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/misstank/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/684c275bebe7ded87fe820987e779b3a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/de85fea53877a6aab177e70aff13513e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/de85fea53877a6aab177e70aff13513e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/ace38305414261e9e31c8863b2c96f91/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/ace38305414261e9e31c8863b2c96f91/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/60db07e12b11108a697e49d33a1de9a5/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/60db07e12b11108a697e49d33a1de9a5/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/57006f555701c24415beb95c39686ad0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/57006f555701c24415beb95c39686ad0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/85a14f038fbcd122e6f421e3d8525090/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/85a14f038fbcd122e6f421e3d8525090/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/0ab02033cc0f40aafe83c67795606eaa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/0ab02033cc0f40aafe83c67795606eaa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cd8931b780c006124a4b62978576f730/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cd8931b780c006124a4b62978576f730/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/72b9664500f6afc1f8e10d2b470771f0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/misstank/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/72b9664500f6afc1f8e10d2b470771f0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:27:9-41
+	android:hardwareAccelerated
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:25:9-43
+	android:icon
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:26:9-42
+	android:allowBackup
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.pkgingo.santaprinterftp2.MainActivity
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:30:10-46:16
+	android:screenOrientation
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:32:9-46
+	android:label
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:34:9-41
+	android:theme
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:31:9-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:36:9-39:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:37:13-65
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:37:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:38:23-70
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:40:9-44:25
+action#android.intent.action.SEND
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.DEFAULT
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:42:13-72
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:42:23-69
+data
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:43:13-48
+	android:mimeType
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:43:19-45
+activity#com.pkgingo.santaprinterftp2.UploadActivity
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:48:9-57:20
+	android:screenOrientation
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:50:13-50
+	android:label
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:52:13-45
+	android:theme
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:51:13-71
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:49:13-71
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:53:13-56:29
+action#android.intent.action.VIEW
+ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from /Volumes/InfoTank/inProgress/santaPrinterFTP2/app/src/main/AndroidManifest.xml:54:25-66
